@@ -14,7 +14,7 @@ The javadoc documentation stored in
 COMP2042TeoZhenYi\javadoc
 
 A list of features that are implemented and are working properly:
-1. A permanent high score and score stored in a txt.file (highscores.txt)
+1. Can store permanent high score and score stored in a txt.file (highscores.txt)
 2. Addition of WASD as a new controller for the game 
 
 The features that are implemented not working properly:
@@ -30,7 +30,16 @@ A list of Java classes that you modified from the given code base
 Unexpected problems arose during the course of the assignment:
 1.The score bug during gameplay which still remains.
 
-Three subfolders introduced
+Three subfolders introduced to organize java classes.
+
+StartGameController class: controller class for fmxl for start game screen.
+EndGameController: controller class for end game screen for high score. top 5 highscores will be displayed and the current score of the player's run.
+All the scores will be stored in the highscores.txt file under resources folder.
+
+
+
+
+
 
 
 
