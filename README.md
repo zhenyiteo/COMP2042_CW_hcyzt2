@@ -1,3 +1,5 @@
+## General Info
+
 This is the assignment report
 by 
 Student name: Teo Zhen Yi
@@ -35,6 +37,8 @@ Three subfolders introduced to organize java classes.
 StartGameController class: controller class for fmxl for start game screen.
 EndGameController: controller class for end game screen for high score. top 5 highscores will be displayed and the current score of the player's run.
 All the scores will be stored in the highscores.txt file under resources folder.
+
+
 
 
 
